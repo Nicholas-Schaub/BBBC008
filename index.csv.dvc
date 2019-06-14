@@ -1,0 +1,8 @@
+md5: 701cc7eb766cc90cfb89836f120fa008
+wdir: .
+outs:
+- md5: 49ffec8b626647ea0638c22469063c60
+  path: index.csv
+  cache: true
+  metric: false
+  persist: false

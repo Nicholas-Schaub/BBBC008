@@ -1,0 +1,13 @@
+/images
+/labels
+/masks
+/index.csv
+ColorMIP.m
+CompressAndIndex.m
+CompressAndIndex.m~
+RandomSelect.m
+ReadTiff.m
+WriteTiff.m
+human_ht29_colon_cancer_2_foreground/
+human_ht29_colon_cancer_2_images/
+
