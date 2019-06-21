@@ -1,4 +1,5 @@
+
 ['remote "myremote"']
-url = ../../../../DVCData/BBBC008
+url = s3://fluoro-nuclei/BBBC008/
 [core]
 remote = myremote
